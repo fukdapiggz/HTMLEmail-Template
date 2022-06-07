@@ -1,4 +1,4 @@
-> Email Template
+> Email-Template
 
 
 This basic Email template is compact and tidy code. This template is also used within my PHPMultipart-Mail-System git.
